@@ -1,1 +1,15 @@
-.venv
+# Service account keys
+ai_sales_agent/kaspiseller-57379-firebase-adminsdk-fbsvc-1c22a63a88.json
+
+# Dependencies
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE settings
+.idx/
